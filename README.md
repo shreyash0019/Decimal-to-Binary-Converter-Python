@@ -38,6 +38,3 @@ Decimal: 10
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License.
